@@ -58,7 +58,7 @@ a:hover{
     transition: background-color 500ms;
 }
 .main-background {
-    width: 350px;
+    width: 320px;
     padding: 30px;
     background-color: hsl(0deg 0% 28.76% / 95%);
     border-radius: 15px;

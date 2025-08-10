@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdulrahman-alsoso.netlify.app/sitemap.xml
